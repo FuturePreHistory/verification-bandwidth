@@ -1,25 +1,13 @@
-cff-version: "1.2.0"
+cff-version: 1.2.0
 message: "If you cite this repository, please cite it as below."
-
 authors:
 
-* name: "FuturePreHistory Archive"
-
-title: "Verification Bandwidth: How AI-Era Democratic Crisis Shifts from Information Disagreement to Stratified Reality"
-version: "0.1.0"
-date-released: "2026-06-18"
-license: "CC-BY-4.0"
-doi: "10.5281/zenodo.20748342"
-repository-code: "https://github.com/FuturePreHistory/verification-bandwidth"
-url: "https://github.com/FuturePreHistory/verification-bandwidth"
-
-preferred-citation:
-type: generic
-authors:
-- name: "FuturePreHistory Archive"
-title: "Verification Bandwidth: How AI-Era Democratic Crisis Shifts from Information Disagreement to Stratified Reality"
-year: 2026
-version: "0.1.0"
-doi: "10.5281/zenodo.20748342"
-url: "https://github.com/FuturePreHistory/verification-bandwidth"
-date-released: "2026-06-18"
+* family-names: "Yang"
+  given-names: "ZaiXing"
+  title: "Verification Bandwidth: How AI-Era Democratic Crisis Shifts from Information Disagreement to Stratified Reality"
+  version: "0.1.0"
+  date-released: 2026-06-18
+  license: "CC-BY-4.0"
+  doi: "10.5281/zenodo.20748342"
+  repository-code: "https://github.com/FuturePreHistory/verification-bandwidth"
+  url: "https://github.com/FuturePreHistory/verification-bandwidth"
