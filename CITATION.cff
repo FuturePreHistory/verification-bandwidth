@@ -1,0 +1,28 @@
+cff-version: "1.2.0"
+message: "If you cite this repository, please cite it as below."
+authors:
+    alias: "FuturePreHistory"
+title: "Verification Bandwidth: How AI-Era Democratic Crisis Shifts from Information Disagreement to Stratified Reality"
+version: "0.1.0"
+date-released: "2026-06-18"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/FuturePreHistory/verification-bandwidth"
+url: "https://github.com/FuturePreHistory/verification-bandwidth"
+keywords:
+  - "verification bandwidth"
+  - "AI governance"
+  - "democratic legitimacy"
+  - "verification equality"
+  - "stratified reality"
+  - "public reasoning"
+  - "artificial intelligence"
+abstract: "This repository archives the initial canonical draft of Verification Bandwidth, a democratic theory essay on how AI systems transform public verification into stratified technical infrastructure. The central claim is that democratic legitimacy depends not only on voting equality and expressive equality, but also on a minimum degree of verification equality."
+preferred-citation:
+  type: generic
+  authors:
+      alias: "FuturePreHistory"
+  title: "Verification Bandwidth: How AI-Era Democratic Crisis Shifts from Information Disagreement to Stratified Reality"
+  year: 2026
+  version: "0.1.0"
+  url: "https://github.com/FuturePreHistory/verification-bandwidth"
+  date-released: "2026-06-18"
