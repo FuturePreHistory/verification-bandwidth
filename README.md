@@ -9,3 +9,11 @@ The central claim is that democratic legitimacy depends not only on voting equal
 ## License
 
 This work is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0). See [LICENSE](LICENSE).
+
+## Citation
+
+Please cite this repository as:
+
+FuturePreHistory. Verification Bandwidth: How AI-Era Democratic Crisis Shifts from Information Disagreement to Stratified Reality. Version 0.1.0. GitHub, 2026.
+
+See [CITATION.cff](CITATION.cff) for machine-readable citation metadata.
