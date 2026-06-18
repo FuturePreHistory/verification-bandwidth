@@ -6,6 +6,7 @@ This repository archives the initial Chinese canonical draft of “Verification 
 
 The central claim is that democratic legitimacy depends not only on voting equality and expressive equality, but also on a minimum degree of verification equality. When public facts increasingly depend on models, data, computational resources, interfaces, audit rights, and institutional access, democratic crisis may shift from information disagreement to stratified access to verifiable reality.
 
+
 ## License
 
 This work is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0). See [LICENSE](LICENSE).
