@@ -8,6 +8,7 @@ authors:
 title: "Verification Bandwidth: How AI-Era Democratic Crisis Shifts from Information Disagreement to Stratified Reality"
 version: "0.1.0"
 date-released: "2026-06-18"
+doi: "10.5281/zenodo.20748342"
 license: "CC-BY-4.0"
 repository-code: "https://github.com/FuturePreHistory/verification-bandwidth"
 url: "https://github.com/FuturePreHistory/verification-bandwidth"
@@ -31,5 +32,6 @@ preferred-citation:
   title: "Verification Bandwidth: How AI-Era Democratic Crisis Shifts from Information Disagreement to Stratified Reality"
   year: 2026
   version: "0.1.0"
+  doi: "10.5281/zenodo.20748342"
   url: "https://github.com/FuturePreHistory/verification-bandwidth"
   date-released: "2026-06-18"
